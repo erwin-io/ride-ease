@@ -1,0 +1,5 @@
+export const USER_TYPE = {
+  ADMIN: "ADMIN",
+  DRIVER: "DRIVER",
+  PASSENGER: "PASSENGER",
+};
