@@ -1,4 +1,4 @@
-import * as firebaseConfig from "./market-stall-rentals-firebase-adminsdk-tceie-d772b426f4.json";
+import * as firebaseConfig from "./ride-ease-taxi-firebase-adminsdk-3teyz-501e7ad1b4.json";
 
 export default {
   type: firebaseConfig.type,
